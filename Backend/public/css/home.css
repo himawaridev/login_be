@@ -1,0 +1,11 @@
+#body {
+    background-color: brown;
+}
+
+.intro-home {
+    position: fixed;
+}
+
+.content {
+    font-size: 30px;
+}
